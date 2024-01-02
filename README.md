@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A passionate web developer student from Greece</h3>
 
-- 🔭 I’m currently working on **a python web application for my thesis**
+- 🔭 I’m currently working on **developing websites**
 
-- 🌱 I’m currently learning **React**
+- 🌟 My last big project was **a python web application for my thesis**
+
+- 🌱 I’m currently learning **Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
